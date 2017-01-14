@@ -3,7 +3,7 @@
 Esse é o código do primeiro post do meu blog, mostrando uma prova de conceito do mapreduce com scala e mongodb.É preciso ter o mongoDB, Scala e sbt instalado para poder executa-lo.
 Para executa-lo, siga os passos:
   - inicie sua instância do mongoDB com o comando "mongod";
-  - importe a coleção de tweets, usando o comando "mongoimport --db twitter --collection tweets --file tweets_westworld.json"
+  - importe a coleção de tweets, usando o comando "mongoimport --db twitter --collection tweets --file tweets_westworld.json";
   - entre na pasta em que o código foi extraído(no caso, MapReduceMongo);
   - entre no prompt do sbt, usando o comando "sbt";
   - dentro do prompt do sbt, use o comando "run", que irá compilar e rodar o código.
