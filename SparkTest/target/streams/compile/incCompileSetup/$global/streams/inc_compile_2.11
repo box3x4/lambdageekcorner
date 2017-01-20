@@ -1,0 +1,175 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$1.class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$2.class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$3.class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$.class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$delayedInit$body.class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main.class
+binary dependencies:
+5 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-2.0.0.jar
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /home/karvalhus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main$
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main$$anonfun$1
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main$$anonfun$2
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main$$anonfun$3
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main$delayedInit$body
+used names:
+76 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> +
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> <init>
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Any
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> App
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> B
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Class
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> ClassTag
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> D
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> DefaultHelper
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> DefaultsTo
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Document
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> DocumentRDDFunctions
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Function1
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Function2
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Int
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> K
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Main
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> MongoRDD
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> MongoSpark
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Nothing
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Null
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Object
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Ordering
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> PairRDDFunctions
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Predef
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> RDD
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> SparkConf
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> SparkContext
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> String
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> T
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> T1
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> T2
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Tuple2
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> U
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> Unit
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> V
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> WriteConfig
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> _$7
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> _1
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> _2
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> anwserCollection
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> apache
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> apply
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> bson
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> com
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> conf
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> default
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> doc
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> get
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> load
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> map
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> materializeClassTag
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> mongodb
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> org
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> package
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> put
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> qual$1
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> rdd
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> rddToPairRDDFunctions
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> rddTweets
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> reduceByKey
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> rt
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> saveToMongoDB
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> sc
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> scala
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> set
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> setAppName
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> setMaster
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> spark
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> toDocumentRDDFunctions
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> tuple
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> x$3
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> x$4
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> x$5
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> x$6
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> x$7
+product stamps:
+6 items
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$1.class -> lastModified(1484336498000)
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$2.class -> lastModified(1484336498000)
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$$anonfun$3.class -> lastModified(1484336498000)
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$.class -> lastModified(1484336498000)
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main$delayedInit$body.class -> lastModified(1484336498000)
+/home/karvalhus/IdeaProjects/SparkTest/target/scala-2.11/classes/Main.class -> lastModified(1484336498000)
+source stamps:
+1 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> hash(dd6929d7b827898ed6711ba5909e8310ac04ec5f)
+binary stamps:
+5 items
+/home/karvalhus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/home/karvalhus/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-2.0.0.jar -> lastModified(1478009193000)
+/home/karvalhus/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/home/karvalhus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1477592329000)
+class names:
+5 items
+/home/karvalhus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.PairRDDFunctions
+/home/karvalhus/.ivy2/cache/org.mongodb.spark/mongo-spark-connector_2.11/jars/mongo-spark-connector_2.11-2.0.0.jar -> com.mongodb.spark.package$
+/home/karvalhus/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> org.bson.Document
+/home/karvalhus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhfgl9AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9uPFBnQABm5vdGlmeXNxAH4ADE5NRxt0AAR3YWl0c3EAfgAMYEojJnQADSRhc0luc3RhbmNlT2ZzcQB+AAyiAuv3dAAGZXF1YWxzc3EAfgAMq/7O7nQACXJkZFR3ZWV0c3NxAH4ADIt3LQh0AAxhc0luc3RhbmNlT2ZzcQB+AAzyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxDa544dAAQYW53c2VyQ29sbGVjdGlvbnNxAH4ADEgm0ih0AAxzeW5jaHJvbml6ZWRzcQB+AAwOmDBGdAACc2NzcQB+AAwS+s2ndAANJGlzSW5zdGFuY2VPZnNxAH4ADJ4tyrN0AARtYWluc3EAfgAMXSrs83QACW5vdGlmeUFsbHNxAH4ADGdP0tB0AARjb25mc3EAfgAMqIdyWXQADGlzSW5zdGFuY2VPZnNxAH4ADEVAMWF0AAI9PXNxAH4ADDHYpZZ0AAVjbG9uZXNxAH4ADJ4p2CV0AAYkaW5pdCRzcQB+AAzTz3V7dAAETWFpbnNxAH4ADCnaold0AAh0b1N0cmluZ3NxAH4ADEEFGbB0AARhcmdzc3EAfgAMKN2sTXQAAiE9c3EAfgAM9o72unQACGdldENsYXNzc3EAfgAM00tGsHQAAm5lc3EAfgAM/9GmvHQAAmVxc3EAfgAMEX93K3QAC2RlbGF5ZWRJbml0c3EAfgAMdYe8gnQAAiMjc3EAfgAMDOt+n3QACGZpbmFsaXplc3EAfgAM1PBKR3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4Ab3NxAH4AanVxAH4ATAAAAABzcQB+AGp1cQB+AEwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFJxAH4AW3VxAH4AXAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHl4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCTc3EAfgBeAHEAfgAldXEAfgBgAAAAAHNxAH4AhnQABFVuaXRxAH4AjHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGN0AAVQbGFpbnEAfgA3c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCHWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBuc3EAfgCGdAAFQXJyYXlxAH4AjHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCGdAAGU3RyaW5nc3EAfgCKc3EAfgCNdXEAfgCQAAAAA3NxAH4AknQABGphdmFzcQB+AJJ0AARsYW5ncQB+AJdzcQB+AGp1cQB+AK4AAAAEc3EAfgCGdAADQXBwcQB+AIxzcQB+AIZ0AAtEZWxheWVkSW5pdHEAfgCMc3EAfgCGdAAGT2JqZWN0cQB+ALJzcQB+AIZ0AANBbnlxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZmVlsA3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9rYXJ2YWxodXMvSWRlYVByb2plY3RzL1NwYXJrVGVzdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3Wkp17gniY7WcRulkJ6DEKwE7F8=
+external apis:
+0 items
+source infos:
+1 items
+/home/karvalhus/IdeaProjects/SparkTest/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWZlZbAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2thcnZhbGh1cy9JZGVhUHJvamVjdHMvU3BhcmtUZXN0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
